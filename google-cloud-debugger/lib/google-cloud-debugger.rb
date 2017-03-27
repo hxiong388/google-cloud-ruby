@@ -13,9 +13,9 @@
 # limitations under the License.
 
 ##
-# This file is here to be autorequired by bundler, so that the .logging and
-# #logging methods can be available, but the library and all dependencies won't
-# be loaded until required and used.
+# This file is here to be autorequired by bundler, so that the .debugger and
+# #debugger methods can be available, but the library and all dependencies
+# won't be loaded until required and used.
 
 
 gem "google-cloud-core"
